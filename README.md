@@ -26,7 +26,6 @@ Firmware: Firmata v2.5.8
 
 1. Board manager v3.0.2 could not be flashed - no idea why
 2. Used Johnny-Five v2.1.0 generates warning at each a new library - gyp info, [readmore](https://github.com/rwaldron/johnny-five/issues/1786)
-3. @types/johnny-five does not support Multi class so I created interface extension at folder types/johnny-five
 
 ## Start
 
