@@ -1,7 +1,6 @@
-# esp8266-johnny-five-htu21d
+# esp8266-johnny-five-encoder
 
-Simple application to read a temperature and humidity with a NodeMCU V3 board.
-After start you can control read temperature and humidity from HTU21D sensor connected via I2C protocol.
+Simple application to detect a rotary encoder position changes and button usages.
 
 Project supports Typescript.
 
@@ -9,7 +8,7 @@ Project supports Typescript.
 
 - NodeMCU V3 board with firmware StandardFirmataWifi
 - Be connected to the same Wi-Fi network
-- HTU21D sensor
+- Rotary encoder
 
 ## Tested dependencies versions:
 
